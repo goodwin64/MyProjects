@@ -3,4 +3,4 @@ Acquaintance with Github
 
 I like :tea:, :pizza: and :programming:
 
-There will be "*.py" files in this repository.
+This repo will remain here as a memorial sign of the register on Github.
